@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="152dp"
+    android:height="152dp"
+    android:viewportWidth="152"
+    android:viewportHeight="152">
+    <group>
+        <group>
+            <group>
+                <clip-path
+                    android:pathData="M140 76c0 35.35-28.65 64-64 64s-64-28.65-64-64 28.65-64 64-64 64 28.65 64 64ZM31.2 76c0 24.74 20.06 44.8 44.8 44.8s44.8-20.06 44.8-44.8S100.74 31.2 76 31.2 31.2 51.26 31.2 76Z"/>
+                <path
+                    android:strokeColor="#FFFF9900"
+                    android:strokeWidth="6.93"
+                    android:pathData="M140 76c0 35.35-28.65 64-64 64s-64-28.65-64-64 28.65-64 64-64 64 28.65 64 64ZM31.2 76c0 24.74 20.06 44.8 44.8 44.8s44.8-20.06 44.8-44.8S100.74 31.2 76 31.2 31.2 51.26 31.2 76Z"/>
+            </group>
+        </group>
+        <group>
+            <group>
+                <clip-path
+                    android:pathData="M140 76c0 35.35-28.65 64-64 64s-64-28.65-64-64 28.65-64 64-64 64 28.65 64 64ZM31.2 76c0 24.74 20.06 44.8 44.8 44.8s44.8-20.06 44.8-44.8S100.74 31.2 76 31.2 31.2 51.26 31.2 76Z"/>
+                <path
+                    android:strokeColor="#FFFAFF00"
+                    android:strokeWidth="9.07"
+                    android:pathData="M140 76c0 35.35-28.65 64-64 64s-64-28.65-64-64 28.65-64 64-64 64 28.65 64 64ZM31.2 76c0 24.74 20.06 44.8 44.8 44.8s44.8-20.06 44.8-44.8S100.74 31.2 76 31.2 31.2 51.26 31.2 76Z"/>
+            </group>
+        </group>
+        <group>
+            <group>
+                <clip-path
+                    android:pathData="M140 76c0 35.35-28.65 64-64 64s-64-28.65-64-64 28.65-64 64-64 64 28.65 64 64ZM31.2 76c0 24.74 20.06 44.8 44.8 44.8s44.8-20.06 44.8-44.8S100.74 31.2 76 31.2 31.2 51.26 31.2 76Z"/>
+                <path
+                    android:strokeColor="#33ECAE0F"
+                    android:strokeWidth="6.93"
+                    android:pathData="M140 76c0 35.35-28.65 64-64 64s-64-28.65-64-64 28.65-64 64-64 64 28.65 64 64ZM31.2 76c0 24.74 20.06 44.8 44.8 44.8s44.8-20.06 44.8-44.8S100.74 31.2 76 31.2 31.2 51.26 31.2 76Z"/>
+            </group>
+        </group>
+        <group>
+            <group>
+                <clip-path
+                    android:pathData="M140 76c0 35.35-28.65 64-64 64s-64-28.65-64-64 28.65-64 64-64 64 28.65 64 64ZM31.2 76c0 24.74 20.06 44.8 44.8 44.8s44.8-20.06 44.8-44.8S100.74 31.2 76 31.2 31.2 51.26 31.2 76Z"/>
+                <path
+                    android:strokeColor="#FFFFAB2D"
+                    android:strokeWidth="4.27"
+                    android:pathData="M140 76c0 35.35-28.65 64-64 64s-64-28.65-64-64 28.65-64 64-64 64 28.65 64 64ZM31.2 76c0 24.74 20.06 44.8 44.8 44.8s44.8-20.06 44.8-44.8S100.74 31.2 76 31.2 31.2 51.26 31.2 76Z"/>
+            </group>
+        </group>
+        <group>
+            <group>
+                <clip-path
+                    android:pathData="M140 76c0 35.35-28.65 64-64 64s-64-28.65-64-64 28.65-64 64-64 64 28.65 64 64ZM31.2 76c0 24.74 20.06 44.8 44.8 44.8s44.8-20.06 44.8-44.8S100.74 31.2 76 31.2 31.2 51.26 31.2 76Z"/>
+                <path
+                    android:strokeColor="#FFFFFFFF"
+                    android:strokeWidth="2.13"
+                    android:pathData="M140 76c0 35.35-28.65 64-64 64s-64-28.65-64-64 28.65-64 64-64 64 28.65 64 64ZM31.2 76c0 24.74 20.06 44.8 44.8 44.8s44.8-20.06 44.8-44.8S100.74 31.2 76 31.2 31.2 51.26 31.2 76Z"/>
+            </group>
+        </group>
+    </group>
+</vector>
